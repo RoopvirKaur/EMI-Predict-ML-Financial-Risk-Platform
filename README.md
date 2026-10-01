@@ -362,11 +362,13 @@ The application is organized into **5 pages**:
 
 ``` text
 EMI Predict/
-├── .streamlit/
-│   └── config.toml
+├──config.toml
 ├── data/
 │   └── processed/
-│       └── README.md
+    ├── test.parquet
+│   ├── train.parquet
+│   ├── val.parquet
+
 ├── dataset/
 │   └── README.md
 ├── docs/
