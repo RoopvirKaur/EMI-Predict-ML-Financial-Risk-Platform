@@ -329,13 +329,8 @@ pytest tests/
 
 ---
 
-## 19. Deployment
 
-Deployment URL will be added after final deployment.
-
----
-
-## 20. Future Improvements
+## 19. Future Improvements
 
 - **Cloud Deployment**: Containerized deployment via Docker / Streamlit Cloud.
 - **Model Monitoring**: Data drift monitoring and automated re-training pipelines.
